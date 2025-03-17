@@ -1,3 +1,5 @@
+[Vídeo da arquitetura sendo construída e comentada](https://youtu.be/60SCy9Dd37Q)
+
 # 📌 Aplicativo Bancário: Arquitetura, Fluxo e Modelo de Ameaças  
 
 ## Primeira tarefa - Descrição do Sistema e Identificação de Ativos
